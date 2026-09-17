@@ -2,12 +2,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Himanshu Khadka`
+- **CCID:** `hkhadka`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+[1] lab description and slides { https://github.com/Himanshu-Khadka/lab-03/blob/main/lab-description.md }
+[2] Selectable Reference { https://developer.android.com/reference/kotlin/androidx/compose/foundation/selection/selectable.modifier }
+
 
 ## Verbal Collaboration
 
